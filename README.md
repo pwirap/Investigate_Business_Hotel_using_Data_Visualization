@@ -1,6 +1,4 @@
-# Investigate_Business_Hotel_using_Data_Visualization
-Investigate Business Hotel Using Data Visualization
-
+# Investigate Business Hotel using Data Visualization
 
 # Background and Objective
 It is crucial for a company to consistently analyze its business performance. In this instance, I will delve deeper into the hospitality industry. My focus is to understand the customer behavior in hotel reservations and its correlation with the cancellation rate. The insights gained will be presented in the form of data visualizations for better comprehension and enhanced persuasiveness
